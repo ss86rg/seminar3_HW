@@ -123,6 +123,8 @@ VSСode дает возможность выбрать какое изменен
     
     git remote add oridgin <https ссылка>
 
+Вводим команду по созданию ветки "main" вместо "master" 
 
+    git banch -M main 
     
 
