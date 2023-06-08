@@ -123,8 +123,13 @@ VSСode дает возможность выбрать какое изменен
     
     git remote add oridgin <https ссылка>
 
-Вводим команду по созданию ветки "main" вместо "master" 
+Далее вводим команду по созданию ветки "main" вместо "master" 
 
     git banch -M main 
+Далее вводим команду для регистрации в Git Hub завершающую:
+    
+    git push -U oridgin main
+
+
     
 
